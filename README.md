@@ -1,4 +1,4 @@
-# 2fa-macos-auto-copy ✉️🔒
+# MacOS 2FA Auto Copy ✉️🔒
 Monitors MacOS Messages app for incoming messages with 2FA codes
 
 ![Example](https://github.com/ranrib/2fa-macos-auto-copy/blob/main/example.png?raw=true)
