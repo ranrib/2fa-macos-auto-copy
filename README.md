@@ -1,6 +1,8 @@
 # 2fa-macos-monitor
 Monitors MacOS Messages app for incoming messages with 2FA codes
 
+![Example](https://github.com/ranrib/2fa-macos-monitor/blob/main/example.png?raw=true)
+
 
 ```bash
 touch /Applications/2fa_monitor.py
